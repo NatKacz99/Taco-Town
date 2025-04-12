@@ -1,1 +1,1 @@
-This project allows for choosing your favoritetaco falvor and display the receipt.
+This project allows for choosing your favorite taco falvor and display the receipt.
